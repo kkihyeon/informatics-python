@@ -1,1 +1,1 @@
-# infomatics-python
+# informatics-python
